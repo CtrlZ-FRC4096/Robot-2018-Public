@@ -16,6 +16,8 @@ Driver Station:
 - Python 3.x
 - [robotpy](https://github.com/robotpy/robotpy-wpilib)
 - [pyfrc](https://github.com/robotpy/pyfrc)
+- robotpy-ctre
+- robotpy-pathfinder
 
 roboRIO:
 - [robotpy](https://github.com/robotpy/robotpy-wpilib) ([docs](http://robotpy.readthedocs.io/en/latest/))
